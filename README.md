@@ -78,11 +78,5 @@ We performed:
 
 ---
 
-## 🚀 How to Run
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/Ajay-vardhan/-Mental-Health-Detection-Using-NLP-.git
-cd Mental-Health-Detection-Using-NLP
 
 
