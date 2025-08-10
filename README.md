@@ -55,7 +55,7 @@ We performed:
 - Dense softmax classification layer
 
 ### 3️⃣ Ensemble Machine Learning
-- Models: Logistic Regression, SVM, Random Forest, XGBoost
+- Models: Logistic Regression, Random Forest, XGBoost
 - Voting ensemble with soft probabilities
 - Improved macro-average F1 score
 
