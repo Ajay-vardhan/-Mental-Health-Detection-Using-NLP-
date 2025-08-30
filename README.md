@@ -16,8 +16,6 @@ Our models can classify text into **7 categories**:
 - **`DistilBERT_model_91%.ipynb`** → Transformer-based fine-tuned DistilBERT achieving 91% accuracy.
 - **`biLSTM+pretrained word2vec model.ipynb`** → BiLSTM with pretrained Word2Vec embeddings.
 - **`An Ensemble Machine Learning Pipeline for Multi-Class Mental Health Status Detection.ipynb`** → Traditional ML + Deep Learning ensemble approach.
-- **`balanced_dataset_clean_zz.csv`** → Processed dataset.
-- **`Original dataset.csv`** → Raw dataset (before cleaning).
 
 ---
 
