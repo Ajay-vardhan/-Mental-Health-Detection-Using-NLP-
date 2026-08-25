@@ -1,4 +1,4 @@
-# 🧠 Mental Health Detection Using NLP
+# 🧠 Mental Health Classification Using TEXT
 
 This repository contains multiple machine learning and deep learning approaches for **multi-class mental health status detection** based on user text data.  
 Our models can classify text into **7 categories**:
